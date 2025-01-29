@@ -1,12 +1,14 @@
----
-title: Personalized Fitness Planne
-emoji: 🌍
-colorFrom: green
-colorTo: indigo
-sdk: gradio
-sdk_version: 5.13.2
-app_file: app.py
-pinned: false
----
+# Personalized Fitness Planner 💪
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+AI-powered fitness planner using Gradio & OpenAI!
+
+🚀 **Features**:
+- TDEE Calculation 📊
+- Macronutrient Breakdown 🍽️
+- Personalized Workout & Meal Plans 🏋️‍♂️
+- Deployed on Hugging Face
+
+🔗 **Live Demo**: [Hugging Face Link](https://huggingface.co/spaces/aravindbethapudi2017/Personalized-Fitness-Planner)
+
+🛠 **Tech Stack**: Python | Gradio | OpenAI | Hugging Face Spaces
+
